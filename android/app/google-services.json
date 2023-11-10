@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929312885737",
+    "project_id": "semana08-19b39",
+    "storage_bucket": "semana08-19b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929312885737:android:28213760619895f6bb5978",
+        "android_client_info": {
+          "package_name": "com.cloria00867.semana08"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvv9Jv9aHGyMKSrnE82GbMisFKB7GF54M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
